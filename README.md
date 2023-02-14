@@ -4,8 +4,6 @@
   </a>
 </div>
 
-### **Programador Full Stack JavaScript**
-
 ---
 
 - [ ] [HTML 5](./html)
