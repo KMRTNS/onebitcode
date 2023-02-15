@@ -1,28 +1,21 @@
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
-    <title>Tabelas</title>
+    <title>Validação do Formulário</title>
   </head>
   <body>
-    <h1>Urano</h1>
-    <table border="1">
-      <caption><h4>Satélites</h4></caption>
-      <thead>
-        <tr>
-          <th>Nome</th>
-          <th>Data de descobrimento</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Titânia</td>
-          <td>1787</td>
-        </tr>
-        <tr>
-          <td>Oberon</td>
-          <td>1787</td>
-        </tr>
-      </tbody>      
-    </table>
+    <h3>Encontre no Google:</h3>
+    <form action="https://www.google.com/search">
+      <label for="q">O que deseja pesquisar?</label>
+      <input type="text" id="q" name="q" placeholder="Nasa, SpaceX" required>
+      <br><br>
+      <label for="q">Qual é seu e-mail?</label>
+      <input type="email" id="e" name="e" placeholder="Exemplo@exemplo.com" required>
+      <br><br>
+      <label for="q">Qual é sua idade?</label>
+      <input type="number" id="i" name="i" placeholder="01 - 99" min="1" max="99">
+      <br><br>
+      <input type="submit" value="Pesquisar">
+    </form>
   </body>
 </html>
