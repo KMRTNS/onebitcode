@@ -57,12 +57,12 @@
   - [X] [Aprofundando nos Inputs](#)
   - [X] [Exercício: Criando seu primeiro Form](#)
   - [X] [Resolução: Criando seu primeiro Form](#)
-  - [ ] [Novidades do HTML5](#)
-  - [ ] [Leituras recomendadas](#)
-  - [ ] [Elementos semânticos do HTML 5](#)
-  - [ ] [Exercício: Criando um site completo](#)
-  - [ ] [Resolução: Criando um site completo](#)
-  - [ ] [Prova de conclusão](#)
+  - [X] [Novidades do HTML5](#)
+  - [X] [Leituras recomendadas](#)
+  - [X] [Elementos semânticos do HTML 5](#)
+  - [X] [Exercício: Criando um site completo](#)
+  - [X] [Resolução: Criando um site completo](#)
+  - [X] [Prova de conclusão](#)
 
 ---
 
