@@ -1,7 +1,10 @@
 h1 {
   font-size: 35px;
+  /*Definindo a cor usando: O nome*/
+  color: red;
 }
 
 li {
-  color: green;
+  /*Definindo a cor usando: Hexadecimal*/
+  color: #546584;
 }
