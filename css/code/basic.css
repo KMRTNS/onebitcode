@@ -1,0 +1,8 @@
+/* CSS -> Cascading Style Sheets ou Folhas de Estilo em Cascata */
+
+/*Seletor (h1)*/ h1 { /*Declaração ({ })*/
+  /*Propriedade (color:)*/ /*Valor (blue)*/
+  color: blue;
+  /*Propriedade (font-size:)*/ /*Valor (16px)*/
+  font-size: 16px;
+}
